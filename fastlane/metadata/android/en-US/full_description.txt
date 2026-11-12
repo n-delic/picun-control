@@ -1,0 +1,21 @@
+Picun Control is an unofficial, offline, native replacement for the Picun Audio app.
+
+It talks directly to Picun earbuds over Bluetooth LE and works without an account, without
+internet access and without location tracking. The supported-model catalogue is bundled inside
+the app, so nothing is downloaded at runtime.
+
+Features:
+- Low latency / game mode
+- Noise cancelling, transparency and adaptive ANC
+- 10-band equalizer with locally saved presets
+- Battery, volume and playback controls
+- Spatial audio, prompt language, find-my-earbuds
+- Model-specific extras such as RGB light, heating, head tracking, touch controls, wear
+  detection, wind-noise reduction, LDAC and sleep mode
+- Diagnostics screen with a CRC-checked raw hex log for mapping new models
+
+Only the game-mode toggle has been verified on real hardware so far. Other controls are
+implemented from the reverse-engineered protocol and may behave differently on some models.
+Unknown models stay read-only until the user explicitly enables experimental controls.
+
+Picun Control is not affiliated with Picun.

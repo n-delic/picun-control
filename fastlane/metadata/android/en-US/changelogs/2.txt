@@ -1,0 +1,8 @@
+First public build.
+
+- Full protocol layer for Family A (legacy) and Family B (AN03), with CRC validation.
+- Game mode, ANC, 10-band EQ with local presets, battery, volume, playback.
+- Spatial audio, prompt language, find-my-earbuds, mic mode, volume limit, leak-proof mode.
+- Model-specific cards driven by the bundled 112-model catalogue.
+- Diagnostics screen with read-only probes and a raw hex log.
+- Reconnect handling, serialized write queue, experimental opt-in for unknown models.

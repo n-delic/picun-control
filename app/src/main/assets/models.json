@@ -1,0 +1,7282 @@
+[
+ {
+  "device_id": 10,
+  "device_name": "EF-01PRO",
+  "bluetooth_name": "picun EF-01Pro",
+  "device_model": "0001",
+  "device_no": "0005",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 1,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Mode switching",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/mode"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Dynamic range",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/noise"
+   }
+  ]
+ },
+ {
+  "device_id": 11,
+  "device_name": "ANC-05max",
+  "bluetooth_name": "picun anc-05max",
+  "device_model": "0001",
+  "device_no": "0003",
+  "type": 2,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 17,
+  "device_name": "MUSICPODS",
+  "bluetooth_name": "MUSICPODS",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 18,
+  "device_name": "QW-10Pro",
+  "bluetooth_name": "QW-10Pro",
+  "device_model": "0001",
+  "device_no": "0006",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 10,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Volume down",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 19,
+  "device_name": "W11",
+  "bluetooth_name": "W11",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 21,
+  "device_name": "W20",
+  "bluetooth_name": "W20",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 22,
+  "device_name": "X6",
+  "bluetooth_name": "X6",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 23,
+  "device_name": "A6",
+  "bluetooth_name": "picun A6",
+  "device_model": "0001",
+  "device_no": "0004",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 24,
+  "device_name": "ANC-01",
+  "bluetooth_name": "ANC-01",
+  "device_model": "ANC-01",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 25,
+  "device_name": "ANC-02pro",
+  "bluetooth_name": "ANC-02pro",
+  "device_model": "ANC-02pro",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 26,
+  "device_name": "ANC-05L",
+  "bluetooth_name": "picun anc-05l",
+  "device_model": "0001",
+  "device_no": "0001",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 5,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 27,
+  "device_name": "picun F6",
+  "bluetooth_name": "picun F6",
+  "device_model": "0001",
+  "device_no": "0002",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 28,
+  "device_name": "UW-05AH",
+  "bluetooth_name": "UW-05AH",
+  "device_model": "UW-05AH",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 29,
+  "device_name": "B29",
+  "bluetooth_name": "B29",
+  "device_model": "B29",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 30,
+  "device_name": "E3",
+  "bluetooth_name": "E3",
+  "device_model": "E3",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 31,
+  "device_name": "E5",
+  "bluetooth_name": "E5",
+  "device_model": "E5",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 32,
+  "device_name": "E6",
+  "bluetooth_name": "E6",
+  "device_model": "E6",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 33,
+  "device_name": "Q2",
+  "bluetooth_name": "Q2",
+  "device_model": "Q2",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 35,
+  "device_name": "Q5",
+  "bluetooth_name": "Q5",
+  "device_model": "Q5",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 36,
+  "device_name": "F6 Ultra",
+  "bluetooth_name": "picun F6 Ultra",
+  "device_model": "0001",
+  "device_no": "0071",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 1,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 1,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 1,
+  "voice_switch": 0,
+  "friends_switch": 1,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 37,
+  "device_name": "B-06",
+  "bluetooth_name": "B-06",
+  "device_model": "B-06",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 38,
+  "device_name": "B8",
+  "bluetooth_name": "B8",
+  "device_model": "B8",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 40,
+  "device_name": "B11",
+  "bluetooth_name": "B11",
+  "device_model": "B11",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 41,
+  "device_name": "B12",
+  "bluetooth_name": "B12",
+  "device_model": "B12",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 42,
+  "device_name": "B21",
+  "bluetooth_name": "B21",
+  "device_model": "B21",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 43,
+  "device_name": "EF-01MAX",
+  "bluetooth_name": "picun EF-01max",
+  "device_model": "0001",
+  "device_no": "0007",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 1,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Mode switching",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/mode"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Dynamic range",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/noise"
+   }
+  ]
+ },
+ {
+  "device_id": 44,
+  "device_name": "I30",
+  "bluetooth_name": "I30",
+  "device_model": "I30",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 45,
+  "device_name": "LUCKY CAT",
+  "bluetooth_name": "LUCKY CAT",
+  "device_model": "LUCKY CAT",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 46,
+  "device_name": "N1",
+  "bluetooth_name": "N1",
+  "device_model": "N1",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 47,
+  "device_name": "P28X",
+  "bluetooth_name": "P28X",
+  "device_model": "P28X",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 49,
+  "device_name": "T1",
+  "bluetooth_name": "T1",
+  "device_model": "T1",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 50,
+  "device_name": "T2",
+  "bluetooth_name": "T2",
+  "device_model": "T2",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 51,
+  "device_name": "T6",
+  "bluetooth_name": "T6",
+  "device_model": "T6",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 52,
+  "device_name": "UTV-01",
+  "bluetooth_name": "UTV-01",
+  "device_model": "UTV-01",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 54,
+  "device_name": "BG-01",
+  "bluetooth_name": "BG-01",
+  "device_model": "BG-01",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 55,
+  "device_name": "BG-01SE",
+  "bluetooth_name": "BG-01SE",
+  "device_model": "BG-01SE",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 56,
+  "device_name": "P80X",
+  "bluetooth_name": "P80X",
+  "device_model": "P80X",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 57,
+  "device_name": "TG-01",
+  "bluetooth_name": "TG-01",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 58,
+  "device_name": "UG-01",
+  "bluetooth_name": "UG-01",
+  "device_model": "UG-01",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 59,
+  "device_name": "UG-01CAT",
+  "bluetooth_name": "UG-01CAT",
+  "device_model": "UG-01CAT",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 60,
+  "device_name": "UG-01SE",
+  "bluetooth_name": "UG-01SE",
+  "device_model": "UG-01SE",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 61,
+  "device_name": "UG-05",
+  "bluetooth_name": "UG-05",
+  "device_model": "",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 62,
+  "device_name": "UG-06",
+  "bluetooth_name": "UG-06",
+  "device_model": "UG-06",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 63,
+  "device_name": "UG-08S",
+  "bluetooth_name": "UG-08S",
+  "device_model": "0001",
+  "device_no": "0008",
+  "type": 0,
+  "mode": 20,
+  "anc_mode": 10,
+  "effects_id": 11,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/find"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/eq"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/set"
+   },
+   {
+    "title": "RGB",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/rgb"
+   }
+  ]
+ },
+ {
+  "device_id": 64,
+  "device_name": "UG-09A",
+  "bluetooth_name": "UG-09A",
+  "device_model": "UG-09A",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 65,
+  "device_name": "UT-01",
+  "bluetooth_name": "UT-01",
+  "device_model": "UT-01",
+  "device_no": "",
+  "type": 0,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 0,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "0"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "0"
+   }
+  ]
+ },
+ {
+  "device_id": 71,
+  "device_name": "F2",
+  "bluetooth_name": "Picun F2",
+  "device_model": "01",
+  "device_no": "01",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 72,
+  "device_name": "Z1",
+  "bluetooth_name": "picun Z1",
+  "device_model": "0001",
+  "device_no": "0009",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 10,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Sleep",
+    "page_type": "switchsleep",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 73,
+  "device_name": "H3",
+  "bluetooth_name": "picun H3",
+  "device_model": "0001",
+  "device_no": "0011",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 74,
+  "device_name": "A2",
+  "bluetooth_name": "picun A2",
+  "device_model": "0001",
+  "device_no": "0010",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 75,
+  "device_name": "H6",
+  "bluetooth_name": "picun H6",
+  "device_model": "0001",
+  "device_no": "0012",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 10,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Volume down",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 76,
+  "device_name": "H1S",
+  "bluetooth_name": "picun H1S",
+  "device_model": "0001",
+  "device_no": "0015",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 77,
+  "device_name": "H8",
+  "bluetooth_name": "picun H8",
+  "device_model": "0001",
+  "device_no": "0015",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "/pages/alarm/alarm"
+   }
+  ]
+ },
+ {
+  "device_id": 78,
+  "device_name": "H2",
+  "bluetooth_name": "picun H2",
+  "device_model": "0001",
+  "device_no": "0014",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 79,
+  "device_name": "H1",
+  "bluetooth_name": "picun H1",
+  "device_model": "0001",
+  "device_no": "0013",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 80,
+  "device_name": "F1",
+  "bluetooth_name": "picun F1",
+  "device_model": "0001",
+  "device_no": "0016",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 81,
+  "device_name": "B1",
+  "bluetooth_name": "picun B1",
+  "device_model": "0001",
+  "device_no": "0017",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 82,
+  "device_name": "R2",
+  "bluetooth_name": "Picun R2",
+  "device_model": "0001",
+  "device_no": "0018",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 83,
+  "device_name": "F3",
+  "bluetooth_name": "picun F3",
+  "device_model": "0001",
+  "device_no": "0019",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 84,
+  "device_name": "B3",
+  "bluetooth_name": "picun B3",
+  "device_model": "0001",
+  "device_no": "0020",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "/pages/alarm/alarm"
+   }
+  ]
+ },
+ {
+  "device_id": 85,
+  "device_name": "picun F5",
+  "bluetooth_name": "picun F5",
+  "device_model": "0001",
+  "device_no": "0021",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 86,
+  "device_name": "B6",
+  "bluetooth_name": "picun B6",
+  "device_model": "0001",
+  "device_no": "0022",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "/pages/alarm/alarm"
+   }
+  ]
+ },
+ {
+  "device_id": 87,
+  "device_name": "picun F8Pro",
+  "bluetooth_name": "picun F8Pro",
+  "device_model": "0001",
+  "device_no": "0023",
+  "type": 2,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 1,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 88,
+  "device_name": "R2Pro",
+  "bluetooth_name": "Picun R2Pro",
+  "device_model": "0001",
+  "device_no": "0024",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 89,
+  "device_name": "W2",
+  "bluetooth_name": "Picun W2",
+  "device_model": "0001",
+  "device_no": "0025",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 90,
+  "device_name": "N6",
+  "bluetooth_name": "picun N6",
+  "device_model": "0001",
+  "device_no": "0031",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Alarm Clock",
+    "page_type": "page",
+    "page": "/pages/alarm/alarm"
+   }
+  ]
+ },
+ {
+  "device_id": 91,
+  "device_name": "W3",
+  "bluetooth_name": "Picun W3",
+  "device_model": "0001",
+  "device_no": "0026",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchsleep",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 93,
+  "device_name": "anc-05y",
+  "bluetooth_name": "picun anc-05y",
+  "device_model": "0001",
+  "device_no": "0032",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/find"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 94,
+  "device_name": "H3 Pro",
+  "bluetooth_name": "picun H3 Pro",
+  "device_model": "0001",
+  "device_no": "0027",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 95,
+  "device_name": "H80",
+  "bluetooth_name": "picun H80",
+  "device_model": "0001",
+  "device_no": "0028",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 1,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 96,
+  "device_name": "NC60Pro",
+  "bluetooth_name": "picun NC60Pro",
+  "device_model": "0001",
+  "device_no": "0034",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 97,
+  "device_name": "H9",
+  "bluetooth_name": "Picun H9",
+  "device_model": "0002",
+  "device_no": "0030",
+  "type": 6,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Leak"
+   }
+  ]
+ },
+ {
+  "device_id": 98,
+  "device_name": "H2Pro",
+  "bluetooth_name": "picun H2Pro",
+  "device_model": "0001",
+  "device_no": "0042",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 99,
+  "device_name": "W3Pro",
+  "bluetooth_name": "picun W3pro",
+  "device_model": "0001",
+  "device_no": "0040",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 1,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 100,
+  "device_name": "W3Max",
+  "bluetooth_name": "picun W3Max",
+  "device_model": "0001",
+  "device_no": "0041",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 1,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 101,
+  "device_name": "U1",
+  "bluetooth_name": "U1",
+  "device_model": "0001",
+  "device_no": "0043",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 102,
+  "device_name": "U05",
+  "bluetooth_name": "U05",
+  "device_model": "0001",
+  "device_no": "0035",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 5,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 103,
+  "device_name": "UG-10",
+  "bluetooth_name": "picun UG-10",
+  "device_model": "0001",
+  "device_no": "0037",
+  "type": 1,
+  "mode": 20,
+  "anc_mode": 10,
+  "effects_id": 11,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/find"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/eq"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/set"
+   },
+   {
+    "title": "RGB",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/rgb"
+   }
+  ]
+ },
+ {
+  "device_id": 104,
+  "device_name": "picun F8Pro(leakage)",
+  "bluetooth_name": "picun F8Pro",
+  "device_model": "0001",
+  "device_no": "0039",
+  "type": 2,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 1,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 105,
+  "device_name": "NC60Max",
+  "bluetooth_name": "picun NC60Max",
+  "device_model": "0001",
+  "device_no": "0038",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion-Sensing",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 106,
+  "device_name": "F6SE",
+  "bluetooth_name": "picun F6SE",
+  "device_model": "0001",
+  "device_no": "0061",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 107,
+  "device_name": "W5",
+  "bluetooth_name": "picun W5",
+  "device_model": "0001",
+  "device_no": "0044",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 108,
+  "device_name": "W9",
+  "bluetooth_name": "picun W9",
+  "device_model": "0001",
+  "device_no": "0045",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 109,
+  "device_name": "Solo6",
+  "bluetooth_name": "picun Solo6",
+  "device_model": "0001",
+  "device_no": "0062",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 14,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 110,
+  "device_name": "R8",
+  "bluetooth_name": "picun R8",
+  "device_model": "0001",
+  "device_no": "0063",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 111,
+  "device_name": "picun F8Max",
+  "bluetooth_name": "picun F8Max",
+  "device_model": "0001",
+  "device_no": "0064",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 112,
+  "device_name": "R8Pro",
+  "bluetooth_name": "picun R8Pro",
+  "device_model": "0001",
+  "device_no": "0065",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 113,
+  "device_name": "T61",
+  "bluetooth_name": "picun T61",
+  "device_model": "0001",
+  "device_no": "0046",
+  "type": 2,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 114,
+  "device_name": "picun F8S",
+  "bluetooth_name": "picun F8S",
+  "device_model": "0001",
+  "device_no": "0066",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 115,
+  "device_name": "UG-10A",
+  "bluetooth_name": "picun UG-10A",
+  "device_model": "0001",
+  "device_no": "0067",
+  "type": 1,
+  "mode": 20,
+  "anc_mode": 10,
+  "effects_id": 11,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/find"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/eq"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/set"
+   },
+   {
+    "title": "RBG",
+    "page_type": "page",
+    "page": "/pages/gameHeadset/rgb"
+   }
+  ]
+ },
+ {
+  "device_id": 116,
+  "device_name": "W5Max",
+  "bluetooth_name": "picun W5Max",
+  "device_model": "0001",
+  "device_no": "0047",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 117,
+  "device_name": "W28",
+  "bluetooth_name": "picun W28",
+  "device_model": "0001",
+  "device_no": "0048",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 118,
+  "device_name": "W12",
+  "bluetooth_name": "picun W12",
+  "device_model": "0001",
+  "device_no": "0049",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 119,
+  "device_name": "FO",
+  "bluetooth_name": "picun FO",
+  "device_model": "0001",
+  "device_no": "0068",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 5,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 120,
+  "device_name": "BO",
+  "bluetooth_name": "picun BO",
+  "device_model": "0001",
+  "device_no": "0069",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 14,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 121,
+  "device_name": "W28SE",
+  "bluetooth_name": "picun W28SE",
+  "device_model": "0001",
+  "device_no": "0050",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 122,
+  "device_name": "W28Pro",
+  "bluetooth_name": "picun W28Pro",
+  "device_model": "0001",
+  "device_no": "0051",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 123,
+  "device_name": "W8",
+  "bluetooth_name": "picun W8",
+  "device_model": "0001",
+  "device_no": "0052",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 124,
+  "device_name": "GH5",
+  "bluetooth_name": "picun GH5",
+  "device_model": "0001",
+  "device_no": "0070",
+  "type": 5,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": null,
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Warm",
+    "page_type": "page",
+    "page": "/pages/warm/warm"
+   }
+  ]
+ },
+ {
+  "device_id": 125,
+  "device_name": "H1Max",
+  "bluetooth_name": "picun H1Max",
+  "device_model": "0001",
+  "device_no": "0053",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 1,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 126,
+  "device_name": "H80",
+  "bluetooth_name": "picun H80",
+  "device_model": "0001",
+  "device_no": "0054",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 1,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 127,
+  "device_name": "T61",
+  "bluetooth_name": "picun T61",
+  "device_model": "0001",
+  "device_no": "0055",
+  "type": 6,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency mode",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Leak"
+   }
+  ]
+ },
+ {
+  "device_id": 128,
+  "device_name": "T3",
+  "bluetooth_name": "picun T3",
+  "device_model": "0001",
+  "device_no": "0056",
+  "type": 2,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 3,
+  "sound_id": "",
+  "device_status": 20,
+  "category": null,
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof sound",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 129,
+  "device_name": "NC58Max",
+  "bluetooth_name": "picun NC58Max",
+  "device_model": "0001",
+  "device_no": "0072",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion-Sensing",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 130,
+  "device_name": "anc-05 Ultra",
+  "bluetooth_name": "Picun anc-05 Ultra",
+  "device_model": "0001",
+  "device_no": "0073",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 131,
+  "device_name": "F8Max",
+  "bluetooth_name": "picun F8Max",
+  "device_model": "0000",
+  "device_no": "0000",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 20,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 0,
+  "head_match": 0,
+  "voice_switch": 1,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 132,
+  "device_name": "picun F8 Ultra",
+  "bluetooth_name": "picun F8 Ultra",
+  "device_model": "0001",
+  "device_no": "0083",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 1,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 1,
+  "is_touchcontrols": 1,
+  "is_gameSound": 1,
+  "is_weardetection": 1,
+  "is_ldac": 1,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 133,
+  "device_name": "picun F8 Max2",
+  "bluetooth_name": "picun F8 Max2",
+  "device_model": "0001",
+  "device_no": "0078",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 1,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 1,
+  "is_weardetection": 0,
+  "is_ldac": 1,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 134,
+  "device_name": "picun 05Elite",
+  "bluetooth_name": "picun 05Elite",
+  "device_model": "0001",
+  "device_no": "0081",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 14,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 1,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 1,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 1,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Leak proof",
+    "page_type": "switchleak",
+    "page": ""
+   }
+  ]
+ },
+ {
+  "device_id": 135,
+  "device_name": "picun F5 Pro",
+  "bluetooth_name": "picun F5 Pro",
+  "device_model": "0001",
+  "device_no": "0082",
+  "type": 1,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 1,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 0,
+  "head_tracking": 0,
+  "calibration": 0,
+  "voice_switching": 0,
+  "sound_record": 0,
+  "defer_switch": 0,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 0,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 0,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 0,
+  "is_weardetection": 0,
+  "is_ldac": 0,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Low latency",
+    "page_type": "switch",
+    "page": ""
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "EQ",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Setting",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Noise reduction",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   }
+  ]
+ },
+ {
+  "device_id": 136,
+  "device_name": "picun B8S",
+  "bluetooth_name": "picun B8S",
+  "device_model": "0001",
+  "device_no": "0084",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 10,
+  "effects_id": 14,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 0,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 1,
+  "is_touchcontrols": 0,
+  "is_gameSound": 1,
+  "is_weardetection": 0,
+  "is_ldac": 1,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Earphone monitor",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ },
+ {
+  "device_id": 137,
+  "device_name": "picun F8 Max2",
+  "bluetooth_name": "picun F8 Max2",
+  "device_model": "0001",
+  "device_no": "0087",
+  "type": 3,
+  "mode": 10,
+  "anc_mode": 20,
+  "effects_id": 2,
+  "sound_id": "",
+  "device_status": 10,
+  "category": "Over-ear Noise Cancellation",
+  "spatial_audio": 1,
+  "head_tracking": 1,
+  "calibration": 1,
+  "voice_switching": 1,
+  "sound_record": 0,
+  "defer_switch": 1,
+  "gesture": 0,
+  "move_control": 0,
+  "listening_switch": 1,
+  "w3_head_tracking": 0,
+  "is_heating": 0,
+  "six_noise": 1,
+  "is_SceneBlocking": 0,
+  "is_windproofreduction": 1,
+  "is_memory": 1,
+  "head_match": 0,
+  "voice_switch": 0,
+  "friends_switch": 0,
+  "is_benhancement": 0,
+  "is_touchcontrols": 0,
+  "is_gameSound": 1,
+  "is_weardetection": 0,
+  "is_ldac": 1,
+  "is_fast": 1,
+  "modules": [
+   {
+    "title": "Denoise",
+    "page_type": "page",
+    "page": "/pages/denoise/denoise"
+   },
+   {
+    "title": "Find it",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/seat"
+   },
+   {
+    "title": "Equalizer",
+    "page_type": "page",
+    "page": "/pages/sound/sound"
+   },
+   {
+    "title": "Set up",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/info"
+   },
+   {
+    "title": "Motion Control",
+    "page_type": "page",
+    "page": "/pages/headphoneFunction/Somatosensory"
+   }
+  ]
+ }
+]
